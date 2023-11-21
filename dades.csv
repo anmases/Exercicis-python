@@ -1,0 +1,335 @@
+FECHA,CIUDAD,PAÍS,UNIDADES PRODUCIDAS
+2012-05-03,Londres,Reino Unido,400
+2012-05-03,Manchester,Reino Unido,300
+2012-05-03,Liverpool,Reino Unido,700
+2012-05-03,Aberdeen,Reino Unido,300
+2012-05-03,Pamplona,España,1500
+2012-05-03,Bilbao,España,700
+2012-05-03,Barcelona,España,2000
+2012-05-03,Madrid,España,500
+2012-05-03,Marsella,Francia,700
+2012-05-03,Burdeos,Francia,300
+2012-05-03,Paris,Francia,400
+2012-05-03,Lyon,Francia,300
+2012-05-04,Aberdeen,Reino Unido,1500
+2012-05-04,Manchester,Reino Unido,500
+2012-05-04,Londres,Reino Unido,2000
+2012-05-04,Liverpool,Reino Unido,700
+2012-05-04,Bilbao,España,600
+2012-05-04,Pamplona,España,400
+2012-05-04,Madrid,España,1500
+2012-05-04,Barcelona,España,300
+2012-05-04,Marsella,Francia,700
+2012-05-04,Burdeos,Francia,500
+2012-05-04,Paris,Francia,2000
+2012-05-04,Lyon,Francia,1500
+2012-05-05,Liverpool,Reino Unido,600
+2012-05-05,Manchester,Reino Unido,1500
+2012-05-05,Londres,Reino Unido,300
+2012-05-05,Aberdeen,Reino Unido,400
+2012-05-05,Pamplona,España,350
+2012-05-05,Barcelona,España,1500
+2012-05-05,Madrid,España,200
+2012-05-05,Bilbao,España,350
+2012-05-05,Burdeos,Francia,1500
+2012-05-05,Paris,Francia,300
+2012-05-05,Marsella,Francia,600
+2012-05-05,Lyon,Francia,400
+2012-05-06,Londres,Reino Unido,750
+2012-05-06,Manchester,Reino Unido,750
+2012-05-06,Liverpool,Reino Unido,750
+2012-05-06,Aberdeen,Reino Unido,350
+2012-05-06,Madrid,España,800
+2012-05-06,Bilbao,España,900
+2012-05-06,Pamplona,España,400
+2012-05-06,Barcelona,España,600
+2012-05-06,Burdeos,Francia,200
+2012-05-06,Paris,Francia,1500
+2012-05-06,Lyon,Francia,350
+2012-05-06,Marsella,Francia,350
+2012-05-07,Manchester,Reino Unido,600
+2012-05-07,Londres,Reino Unido,500
+2012-05-07,Liverpool,Reino Unido,600
+2012-05-07,Aberdeen,Reino Unido,1500
+2012-05-07,Bilbao,España,2000
+2012-05-07,Madrid,España,450
+2012-05-07,Pamplona,España,1500
+2012-05-07,Barcelona,España,300
+2012-05-07,Lyon,Francia,400
+2012-05-07,Marsella,Francia,900
+2012-05-07,Paris,Francia,600
+2012-05-07,Burdeos,Francia,800
+2012-05-08,Liverpool,Reino Unido,350
+2012-05-08,Manchester,Reino Unido,200
+2012-05-08,Londres,Reino Unido,1500
+2012-05-08,Aberdeen,Reino Unido,350
+2012-05-08,Madrid,España,300
+2012-05-08,Barcelona,España,150
+2012-05-08,Pamplona,España,2500
+2012-05-08,Bilbao,España,750
+2012-05-08,Burdeos,Francia,450
+2012-05-08,Marsella,Francia,750
+2012-05-08,Paris,Francia,300
+2012-05-08,Lyon,Francia,1500
+2012-05-09,Liverpool,Reino Unido,300
+2012-05-09,Manchester,Reino Unido,800
+2012-05-09,Londres,Reino Unido,600
+2012-05-09,Aberdeen,Reino Unido,400
+2012-05-09,Bilbao,España,300
+2012-05-09,Madrid,España,500
+2012-05-09,Barcelona,España,1000
+2012-05-09,Pamplona,España,300
+2012-05-09,Paris,Francia,1000
+2012-05-09,Burdeos,Francia,500
+2012-05-09,Marsella,Francia,300
+2012-05-09,Lyon,Francia,300
+2012-05-10,Londres,Reino Unido,500
+2012-05-10,Manchester,Reino Unido,500
+2012-05-10,Liverpool,Reino Unido,150
+2012-05-10,Aberdeen,Reino Unido,1000
+2012-05-10,Bilbao,España,350
+2012-05-10,Madrid,España,500
+2012-05-10,Barcelona,España,700
+2012-05-10,Pamplona,España,250
+2012-05-10,Paris,Francia,700
+2012-05-10,Lyon,Francia,250
+2012-05-10,Burdeos,Francia,500
+2012-05-10,Marsella,Francia,350
+2012-05-11,Manchester,Reino Unido,500
+2012-05-11,Liverpool,Reino Unido,700
+2012-05-11,Londres,Reino Unido,750
+2012-05-11,Aberdeen,Reino Unido,300
+2012-05-11,Pamplona,España,300
+2012-05-11,Barcelona,España,1000
+2012-05-11,Madrid,España,500
+2012-05-11,Bilbao,España,300
+2012-05-11,Burdeos,Francia,400
+2012-05-11,Paris,Francia,700
+2012-05-11,Lyon,Francia,500
+2012-05-11,Marsella,Francia,300
+2012-05-12,Liverpool,Reino Unido,1500
+2012-05-12,Aberdeen,Reino Unido,1500
+2012-05-12,Londres,Reino Unido,600
+2012-05-12,Manchester,Reino Unido,350
+2012-05-12,Madrid,España,1000
+2012-05-12,Barcelona,España,300
+2012-05-12,Pamplona,España,750
+2012-05-12,Bilbao,España,500
+2012-05-12,Marsella,Francia,1500
+2012-05-12,Burdeos,Francia,350
+2012-05-12,Paris,Francia,600
+2012-05-12,Lyon,Francia,1500
+2012-05-13,Liverpool,Reino Unido,600
+2012-05-13,Londres,Reino Unido,350
+2012-05-13,Manchester,Reino Unido,400
+2012-05-13,Aberdeen,Reino Unido,200
+2012-05-13,Barcelona,España,300
+2012-05-13,Madrid,España,750
+2012-05-13,Bilbao,España,300
+2012-05-13,Pamplona,España,150
+2012-05-13,Marsella,Francia,600
+2012-05-13,Burdeos,Francia,400
+2012-05-13,Paris,Francia,350
+2012-05-13,Lyon,Francia,200
+2012-05-14,Manchester,Reino Unido,1000
+2012-05-14,Liverpool,Reino Unido,500
+2012-05-14,Aberdeen,Reino Unido,800
+2012-05-14,Londres,Reino Unido,300
+2012-05-14,Bilbao,España,500
+2012-05-14,Madrid,España,1000
+2012-05-14,Barcelona,España,300
+2012-05-14,Pamplona,España,350
+2012-05-14,Marsella,Francia,500
+2012-05-14,Lyon,Francia,800
+2012-05-14,Paris,Francia,300
+2012-05-14,Burdeos,Francia,1000
+2012-05-15,Londres,Reino Unido,150
+2012-05-15,Aberdeen,Reino Unido,500
+2012-05-15,Manchester,Reino Unido,300
+2012-05-15,Liverpool,Reino Unido,750
+2012-05-15,Pamplona,España,500
+2012-05-15,Bilbao,España,750
+2012-05-15,Madrid,España,300
+2012-05-15,Barcelona,España,150
+2012-05-15,Paris,Francia,150
+2012-05-15,Marsella,Francia,750
+2012-05-15,Burdeos,Francia,300
+2012-05-15,Lyon,Francia,500
+2012-05-16,Manchester,Reino Unido,1500
+2012-05-16,Liverpool,Reino Unido,500
+2012-05-16,Aberdeen,Reino Unido,750
+2012-05-16,Londres,Reino Unido,750
+2012-05-16,Madrid,España,500
+2012-05-16,Pamplona,España,300
+2012-05-16,Barcelona,España,1000
+2012-05-16,Bilbao,España,150
+2012-05-16,Marsella,Francia,300
+2012-05-16,Burdeos,Francia,400
+2012-05-16,Paris,Francia,700
+2012-05-16,Lyon,Francia,500
+2012-05-17,Londres,Reino Unido,750
+2012-05-17,Aberdeen,Reino Unido,750
+2012-05-17,Manchester,Reino Unido,300
+2012-05-17,Pamplona,España,500
+2012-05-17,Bilbao,España,750
+2012-05-17,Madrid,España,300
+2012-05-17,Barcelona,España,150
+2012-05-17,Paris,Francia,350
+2012-05-17,Burdeos,Francia,1500
+2012-05-17,Lyon,Francia,600
+2012-05-18,Londres,Reino Unido,300
+2012-05-18,Aberdeen,Reino Unido,1000
+2012-05-18,Liverpool,Reino Unido,500
+2012-05-18,Manchester,Reino Unido,1000
+2012-05-18,Bilbao,España,500
+2012-05-18,Pamplona,España,750
+2012-05-18,Barcelona,España,300
+2012-05-18,Madrid,España,1000
+2012-05-18,Marsella,Francia,200
+2012-05-18,Burdeos,Francia,600
+2012-05-18,Paris,Francia,400
+2012-05-18,Lyon,Francia,350
+2012-05-19,Londres,Reino Unido,750
+2012-05-19,Aberdeen,Reino Unido,300
+2012-05-19,Manchester,Reino Unido,750
+2012-05-19,Liverpool,Reino Unido,150
+2012-05-19,Barcelona,España,300
+2012-05-19,Pamplona,España,1000
+2012-05-19,Madrid,España,1000
+2012-05-19,Bilbao,España,500
+2012-05-19,Paris,Francia,1500
+2012-05-19,Marsella,Francia,800
+2012-05-19,Lyon,Francia,900
+2012-05-19,Burdeos,Francia,500
+2012-05-20,Manchester,Reino Unido,1500
+2012-05-20,Liverpool,Reino Unido,750
+2012-05-20,Londres,Reino Unido,350
+2012-05-20,Aberdeen,Reino Unido,600
+2012-05-20,Pamplona,España,300
+2012-05-20,Bilbao,España,300
+2012-05-20,Madrid,España,750
+2012-05-20,Barcelona,España,750
+2012-05-20,Marsella,Francia,300
+2012-05-20,Burdeos,Francia,300
+2012-05-20,Lyon,Francia,750
+2012-05-20,Paris,Francia,750
+2012-05-21,Liverpool,Reino Unido,200
+2012-05-21,Aberdeen,Reino Unido,350
+2012-05-21,Londres,Reino Unido,300
+2012-05-21,Manchester,Reino Unido,1000
+2012-05-21,Bilbao,España,1000
+2012-05-21,Pamplona,España,500
+2012-05-21,Madrid,España,300
+2012-05-21,Barcelona,España,1000
+2012-05-21,Burdeos,Francia,1000
+2012-05-21,Marsella,Francia,500
+2012-05-21,Lyon,Francia,1000
+2012-05-21,Paris,Francia,300
+2012-05-22,Manchester,Reino Unido,750
+2012-05-22,Londres,Reino Unido,750
+2012-05-22,Aberdeen,Reino Unido,300
+2012-05-22,Liverpool,Reino Unido,150
+2012-05-22,Madrid,España,750
+2012-05-22,Barcelona,España,300
+2012-05-22,Pamplona,España,150
+2012-05-22,Bilbao,España,750
+2012-05-22,Lyon,Francia,300
+2012-05-22,Burdeos,Francia,750
+2012-05-22,Marsella,Francia,150
+2012-05-22,Paris,Francia,750
+2012-05-23,Manchester,Reino Unido,300
+2012-05-23,Londres,Reino Unido,500
+2012-05-23,Aberdeen,Reino Unido,1500
+2012-05-23,Liverpool,Reino Unido,750
+2012-05-23,Madrid,España,350
+2012-05-23,Barcelona,España,600
+2012-05-23,Bilbao,España,1500
+2012-05-23,Pamplona,España,750
+2012-05-23,Paris,Francia,750
+2012-05-23,Lyon,Francia,300
+2012-05-23,Burdeos,Francia,750
+2012-05-23,Marsella,Francia,750
+2012-05-24,Londres,Reino Unido,300
+2012-05-24,Manchester,Reino Unido,500
+2012-05-24,Liverpool,Reino Unido,750
+2012-05-24,Aberdeen,Reino Unido,750
+2012-05-24,Bilbao,España,600
+2012-05-24,Madrid,España,400
+2012-05-24,Barcelona,España,350
+2012-05-24,Pamplona,España,200
+2012-05-24,Burdeos,Francia,300
+2012-05-24,Paris,Francia,1000
+2012-05-24,Lyon,Francia,500
+2012-05-24,Marsella,Francia,300
+2012-05-25,Liverpool,Reino Unido,1000
+2012-05-25,Aberdeen,Reino Unido,300
+2012-05-25,Londres,Reino Unido,1000
+2012-05-25,Manchester,Reino Unido,150
+2012-05-25,Barcelona,España,900
+2012-05-25,Madrid,España,1500
+2012-05-25,Bilbao,España,300
+2012-05-25,Pamplona,España,800
+2012-05-25,Paris,Francia,300
+2012-05-25,Burdeos,Francia,750
+2012-05-25,Lyon,Francia,150
+2012-05-25,Marsella,Francia,1000
+2012-05-26,Manchester,Reino Unido,750
+2012-05-26,Liverpool,Reino Unido,300
+2012-05-26,Londres,Reino Unido,750
+2012-05-26,Aberdeen,Reino Unido,750
+2012-05-26,Bilbao,España,300
+2012-05-26,Madrid,España,750
+2012-05-26,Barcelona,España,750
+2012-05-26,Pamplona,España,300
+2012-05-26,Marsella,Francia,750
+2012-05-26,Lyon,Francia,750
+2012-05-26,Paris,Francia,1500
+2012-05-26,Burdeos,Francia,500
+2012-05-27,Aberdeen,Reino Unido,350
+2012-05-27,Londres,Reino Unido,1500
+2012-05-27,Manchester,Reino Unido,200
+2012-05-27,Liverpool,Reino Unido,600
+2012-05-27,Barcelona,España,400
+2012-05-27,Bilbao,España,800
+2012-05-27,Pamplona,España,350
+2012-05-27,Madrid,España,600
+2012-05-27,Burdeos,Francia,200
+2012-05-27,Marsella,Francia,600
+2012-05-27,Lyon,Francia,350
+2012-05-27,Paris,Francia,1500
+2012-05-28,Liverpool,Reino Unido,350
+2012-05-28,Aberdeen,Reino Unido,400
+2012-05-28,Londres,Reino Unido,600
+2012-05-28,Manchester,Reino Unido,800
+2012-05-28,Bilbao,España,750
+2012-05-28,Madrid,España,750
+2012-05-28,Barcelona,España,300
+2012-05-28,Pamplona,España,500
+2012-05-28,Paris,Francia,600
+2012-05-28,Lyon,Francia,400
+2012-05-28,Burdeos,Francia,800
+2012-05-28,Marsella,Francia,350
+2012-05-29,Londres,Reino Unido,1000
+2012-05-29,Aberdeen,Reino Unido,500
+2012-05-29,Liverpool,Reino Unido,300
+2012-05-29,Manchester,Reino Unido,300
+2012-05-29,Bilbao,España,300
+2012-05-29,Pamplona,España,300
+2012-05-29,Madrid,España,1000
+2012-05-29,Barcelona,España,500
+2012-05-29,Marsella,Francia,300
+2012-05-29,Burdeos,Francia,300
+2012-05-29,Paris,Francia,1000
+2012-05-29,Lyon,Francia,500
+2012-05-30,Aberdeen,Reino Unido,150
+2012-05-30,Londres,Reino Unido,300
+2012-05-30,Manchester,Reino Unido,750
+2012-05-30,Liverpool,Reino Unido,1000
+2012-05-30,Pamplona,España,1000
+2012-05-30,Barcelona,España,150
+2012-05-30,Madrid,España,300
+2012-05-30,Bilbao,España,750
+2012-05-30,Burdeos,Francia,750
+2012-05-30,Marsella,Francia,1000
+2012-05-30,Lyon,Francia,150
+2012-05-30,Paris,Francia,300
